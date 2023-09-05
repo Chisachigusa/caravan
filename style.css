@@ -27,30 +27,12 @@ header{
     display: inline-block;
     margin-left: 20px;
 }
-.social i {
-    color:black;
-}
-@media screen and (max-width:1024px){
-    .social i {
-        color: green;
-    }
-}
-@media screen and (max-width:768px){
-    .social i {
-        color: red;
-    }
-}
 
-@media screen and (max-width:425px){
-    .social i {
-        color: blue;
-    }
-}
 header .heading{
     font-size: 32px;
 }
 
-.navlist{
+.nav-list{
     text-align: center;
     margin: 10px 0;
    
